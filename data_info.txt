@@ -1,0 +1,21 @@
+cencus_tracts - https://www.kaggle.com/datasets/mrmorj/gentrification-and-demographic-analysis/data
+
+500_cities_data_22 - https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2024-/yjkw-uj5s/about_data
+
+losangeles.gpkg - https://www.urbandisplacement.org/maps/los-angeles-gentrification-and-displacement/
+
+2122fl - https://www.irs.gov/statistics/soi-tax-stats-migration-data
+
+la_shapefile - https://catalog.data.gov/dataset/tiger-line-shapefile-2023-county-los-angeles-county-ca-topological-faces-polygons-with-all-geoc
+
+education, poverty, shapefile 2020 - https://redistricting.lacounty.gov/mapping-files-data-download/
+
+california_shapefile - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=Census+Tracts
+
+500_cities_data_21 - https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2023-/hky2-3tpn/about_data
+
+500_cities_data_15 - https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/kucs-wizg/about_data
+
+https://pointmatch.floridarevenue.com/General/PlaceCodes.aspx - ref to see which origin county point to which number
+
+# There was so emotional support data before 22. Just mental health.
