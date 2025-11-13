@@ -16,6 +16,10 @@ california_shapefile - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?y
 
 500_cities_data_15 - https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/kucs-wizg/about_data
 
+500_cities_data_18 - https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2020-/ib3w-k9rq/about_data
+
+500_cities_data_2019 -- https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2021-/mb5y-ytti/about_data
+
 https://pointmatch.floridarevenue.com/General/PlaceCodes.aspx - ref to see which origin county point to which number
 
 # There was so emotional support data before 22. Just mental health.
